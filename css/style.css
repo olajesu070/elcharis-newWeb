@@ -7957,6 +7957,10 @@ button.bg-dark:focus {
   padding-left: 1rem !important;
 }
 
+.p-4-option {
+  padding: 1px;
+}
+
 .p-4 {
   padding: 1.5rem !important;
 }
@@ -10114,3 +10118,13 @@ p,
   padding: 0;
   list-style-type: none;
 }
+
+/* .imgContainer {
+  background-color: blue;
+  align-items: center;
+  align-self: center;
+  align-content: center;
+  justify-content: center;
+  justify-self: center;
+  justify-items: center;
+} */
